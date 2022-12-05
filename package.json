@@ -1,6 +1,6 @@
 {
   "name": "react-native-signview",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Signature View for React Native(Android+IOS).",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harishn28/react-native-signview.git"
+    "url": "git+ssh://git@github.com/AbleCable1/react-native-signview.git"
   },
   "keywords": [
     "Signature",
@@ -19,12 +19,9 @@
   "author": "Harish",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Harishn28/react-native-signview/issues"
+    "url": "https://github.com/AbleCable1/react-native-signview/issues"
   },
-  "homepage": "https://github.com/Harishn28/react-native-signview#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
+  "homepage": "https://github.com/AbleCable1/react-native-signview#readme",
   "dependencies": {
     "deprecated-react-native-prop-types": "^3.0.1",
     "prop-types": "^15.7.2"
